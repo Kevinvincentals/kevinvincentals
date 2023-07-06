@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinvincentals" alt="kevinvincentals" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Flask**🎂
 
 - 💻 Managing infrastructure🖨️
 
 - 🕹️ Playing with IoT devices and sensors
 
 - 📫 How to reach me **kevin@tideo.dk**
-
-- ⚡ Fun fact **I have no idea what im doing in python**👀
 
 <p align="left">
 </p>
